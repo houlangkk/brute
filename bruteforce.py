@@ -90,10 +90,3 @@ if __name__ == '__main__':
 		multithreading(url_list, 10)
 	end = time()
 	print('任务完成，用时%d' % (end - start))
-
-
-
-
-
-
-
